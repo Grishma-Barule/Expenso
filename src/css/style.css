@@ -1,0 +1,30 @@
+h1{
+    color: #3D3C42 ;
+}
+.btn-primary{
+   background-color:  #a81723;;
+   border: #850E35;
+   
+}
+.btn-primary:hover{
+    background-color:  #850E35;
+}
+#root{
+    background-color: #FFF5E4;
+}
+.alert-secondary{
+    background-color: #facaca;
+    border: #080104;
+}
+.alert-success{
+    background-color: #facaca;
+    border: #080104;
+
+}
+.alert-primary{
+    background-color: #facaca;
+    border: #080104;
+}
+.alert{
+    color: #3D3C42;
+}
